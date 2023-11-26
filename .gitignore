@@ -1,0 +1,9 @@
+# Project place file
+/test_game.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Wally packages file
+Packages/*
